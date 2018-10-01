@@ -1,5 +1,5 @@
 @charset "UTF-8";   
-body{background-image:url(https://github.com/yurth131/web2-3/blob/master/neko1869IMG_9133_T}
+body{background-image:url(https://github.com/yurth131/web2-3/blob/master/neko1869IMG_9133_T);}
 h1 span{
     font-size: 1.25em;
     background-color: #90ee90;
@@ -14,7 +14,6 @@ h1 span{
     color: #112233;
 }
 .cat{padding-right:30px;
-background-image:url(https://github.com/yurth131/web2-3/blob/master/neko1869IMG_9133_TP_V4.jpg);
 }
 #neko{border-top: #6fbb9a 1px dotted;
     text-align: center;
