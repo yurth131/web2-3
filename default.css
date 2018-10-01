@@ -1,0 +1,30 @@
+@charset "UTF-8"; 
+h1{
+    font-size: 1.75em;
+}
+h2{
+    font-size: 1.25em;
+}
+p{
+    font-size: 0.8em;
+}
+li{
+    font-size: 0.8em;
+}
+h1{
+    font-size: 1.75em;
+    color: #3399cc;
+}
+h2{
+    font-size: 1.25em;
+    color: #3399cc;
+}
+p{
+    font-size: 0.8em;
+    color: #333333;
+}
+li{
+    font-size: 0.8em;
+    color: #333333;
+}
+
