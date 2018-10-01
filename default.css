@@ -14,14 +14,14 @@ h2{
     padding: 5px 20px;
 }
 .male{
-    font-size: 0.8em;
-    color: #333333;
+    font-size: 0.4em;
+    color: #223344;
     background-color: #3399cc; 
     line-height: 1.75em;
 }
 .female{
-    font-size: 0.8em;
-    color: #333333;
+    font-size: 1.0em;
+    color: #112233;
     background-color: #3399cc; 
     line-height: 1.75em;
 }
