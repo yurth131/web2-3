@@ -1,30 +1,32 @@
 @charset "UTF-8"; 
-h1{
-    font-size: 1.75em;
-}
-h2{
-    font-size: 1.25em;
-}
 p{
     font-size: 0.8em;
-}
-li{
-    font-size: 0.8em;
-}
-h1{
+    color: #333333;
+    background-color: #3399cc;    
+}h1{
     font-size: 1.75em;
     color: #3399cc;
+    text-align: center;
 }
 h2{
     font-size: 1.25em;
-    color: #3399cc;
+    background-color: #3399cc;
+    color: #ffffff;
+    border: #94c8b1 1px dotted; /* 境界線 */
+    border-left:#d0e35b 10px solid;
+    margin-bottom: 0; /* 隣り合う要素との間隔 */
+    padding: 5px 20px;
 }
 p{
     font-size: 0.8em;
     color: #333333;
+    background-color: #3399cc; 
+    line-height: 1.75em;
 }
 li{
     font-size: 0.8em;
     color: #333333;
+}address{
+    font-size: 0.75em;
+    font-style: italic;
 }
-
