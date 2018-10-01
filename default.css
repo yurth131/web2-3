@@ -1,8 +1,4 @@
-@charset "UTF-8"; 
-p{
-    font-size: 0.8em;
-    color: #333333;
-    background-color: #3399cc;    
+@charset "UTF-8";   
 }h1{
     font-size: 1.75em;
     color: #3399cc;
@@ -17,12 +13,23 @@ h2{
     margin-bottom: 0; /* 隣り合う要素との間隔 */
     padding: 5px 20px;
 }
-p{
+.male{
     font-size: 0.8em;
     color: #333333;
     background-color: #3399cc; 
     line-height: 1.75em;
 }
+.female{
+    font-size: 0.8em;
+    color: #333333;
+    background-color: #3399cc; 
+    line-height: 1.75em;
+}
+#neko{border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+
 li{
     font-size: 0.8em;
     color: #333333;
