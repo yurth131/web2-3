@@ -1,34 +1,21 @@
 @charset "UTF-8";   
-
+body{background-image:url(https://github.com/yurth131/web2-3/blob/master/neko1869IMG_9133_T}
 h1 span{
     font-size: 1.25em;
-    background-color: #3399cc;
-    color: #ffffff;
-    border: #94c8b1 1px dotted; /* 境界線 */
-    border-left:#d0e35b 10px solid;
-    margin-bottom: 0; /* 隣り合う要素との間隔 */
-    padding: 5px 20px;
+    background-color: #90ee90;
+    color:#225577;
 }
 .male{
     font-size: 0.4em;
     color: #223344;
-    background-color: #3399cc; 
-    line-height: 1.75em;
 }
 .female{
     font-size: 1.0em;
     color: #112233;
-    background-color: #3399cc; 
-    line-height: 1.75em;
+}
+.cat{padding-right:30px;
+background-image:url(https://github.com/yurth131/web2-3/blob/master/neko1869IMG_9133_TP_V4.jpg);
 }
 #neko{border-top: #6fbb9a 1px dotted;
     text-align: center;
-}
-
-li{
-    font-size: 0.8em;
-    color: #333333;
-}address{
-    font-size: 0.75em;
-    font-style: italic;
 }
