@@ -1,10 +1,6 @@
 @charset "UTF-8";   
-}h1{
-    font-size: 1.75em;
-    color: #3399cc;
-    text-align: center;
-}
-h2{
+
+h1 span{
     font-size: 1.25em;
     background-color: #3399cc;
     color: #ffffff;
@@ -26,7 +22,6 @@ h2{
     line-height: 1.75em;
 }
 #neko{border-top: #6fbb9a 1px dotted;
-….
     text-align: center;
 }
 
